@@ -24,7 +24,7 @@ Genome-scale metabolic models (M-models) represent reliable tools to unravel and
 M-models are mathematical representations that contain information about genes, reactions, metabolites and their associations. 
 M-models can simulate optimal reaction fluxes under a wide variety of conditions using experimentally determined constraints. 
 Here we report on the development of a M-model of the wild type bacteria A. vinelandii DJ (iDT1278) which consists of 
-2,003 metabolites, 2,469 reactions, and 1,276 genes. We validated the model using high-throughput phenotypic and physiological 
+2,003 metabolites, 2,469 reactions, and 1,278 genes. We validated the model using high-throughput phenotypic and physiological 
 data, testing 180 carbon sources and 95 nitrogen sources. iDT1278 was able to achieve an accuracy of 89% and 91% for growth 
 with carbon sources and nitrogen source, respectively. This comprehensive M-model will help to comprehend metabolic processes 
 associated with nitrogen fixation, ammonium assimilation, and production of organic nitrogen in an environmentally important 
